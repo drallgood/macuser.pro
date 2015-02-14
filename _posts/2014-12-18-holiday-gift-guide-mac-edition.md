@@ -19,6 +19,7 @@ link_url:
 link_title:
   - 
 ---
+
 The holidays are fast approaching, so is the time for great gifts for your business partners, employees, friends and family members. And we all know, picking the right gift for them can be a daunting task.
 
 That's why we've created this series of guides for you. Each guide features a particular category (iOS, Mac, Gadgets) and contains hardware and software picks alike. That should give you a nice range of options, depending on your budget and needs.
@@ -34,7 +35,7 @@ OmniFocus is no exception to that rule. Back in the day when the whole "Getting 
 
 One of the most powerful features are the "Perspectives", unique and configurable views on your tasks, projects and contexts. They allow you to hide almost every advanced feature of OmniFocus, if you like to do so, or to create your own unique views for your areas of responsibility.
 
-Of course they offer an easy and flexible sync service that allows you to sync your tasks between multiple Macs or their equally powerful [iOS apps](https://search.itunes.apple.com/WebObjects/MZSearch.woa/wa/advancedSearch?genreIndex=1&media=software&softwareDeveloper=Omni+Group&softwareTerm=Omnifocus&at=1l3vb3F).
+Of course they offer an easy and flexible sync service that allows you to sync your tasks between multiple Macs or their equally powerful [iOS apps](https://search.itunes.apple.com/WebObjects/MZSearch.woa/wa/advancedSearch?genreIndex=1&amp;media=software&amp;softwareDeveloper=Omni+Group&amp;softwareTerm=Omnifocus&amp;at=1l3vb3F).
 
 
 ## Hardware
