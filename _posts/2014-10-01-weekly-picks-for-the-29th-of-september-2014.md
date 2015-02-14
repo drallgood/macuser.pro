@@ -4,8 +4,7 @@ post_title: >
   29, 2014
 author: Jerome Koehler
 post_date: 2014-10-01 17:18:02
-post_excerpt: |
-  <p>Every week, we pick the most notable apps, hardware, podcasts or what ever else we've encountered and think you should know of. This post will also be updated regularly throughout the week as we find more amazing stuff. So check back every now and then to learn about our latest findings.</p><p>We'd also like to know your opinions about our picks and/or your picks this week. Please leave a comment below to chime in.</p><p>Our picks this week:</p><ul dir="ltr"><li>Deliveries App</li><li>Slack</li></ul>
+post_excerpt: "<p>Every week, we pick the most notable apps, hardware, podcasts or what ever else we've encountered and think you should know of. This post will also be updated regularly throughout the week as we find more amazing stuff. So check back every now and then to learn about our latest findings.</p><p>We'd also like to know your opinions about our picks and/or your picks this week. Please leave a comment below to chime in.</p><p>Our picks this week:</p><ul><li>Deliveries App</li><li>Slack</li></ul>"
 layout: post
 permalink: >
   http://macuser.pro/2014/10/01/weekly-picks-for-the-29th-of-september-2014/
@@ -22,18 +21,19 @@ link_url:
 link_title:
   - 
 ---
+
 Every week, we pick the most notable apps, hardware, podcasts or what ever else we've encountered and think you should know of. This post will also be updated regularly throughout the week as we find more amazing stuff. So check back every now and then to learn about our latest findings.
 
 We'd also like to know your opinions about our picks and/or your picks this week. Please leave a comment below to chime in.
 
 ## Picks
-### [Deliveries by Junecloud](https://itunes.apple.com/us/app/delivery-status-touch-package/id290986013?mt=8&uo=4&at=1l3v3UY) (Jerome)
+### [Deliveries by Junecloud](https://itunes.apple.com/us/app/delivery-status-touch-package/id290986013?mt=8&amp;uo=4&amp;at=1l3v3UY) (Jerome)
 
 ![Deliveries App][deliveries]
 
-I have a need to track a lot of deliveries that are incoming and outbound and needed an application to consolidate tracking information for all of the different services, that are utilized by my business and by the likes of Amazon, Apple, etc.  My go-to app to keep track of all the deliveries is the aptly named [Deliveries](https://itunes.apple.com/us/app/delivery-status-touch-package/id290986013?mt=8&uo=4&at=1l3v3UY) by Junecloud.  I am able to enter my tracking numbers and it automatically detects the service via the number I entered.  There is also a [widget](http://junecloud.com/software/mac/delivery-status.html) available for free where you use Junecloud’s free sync service to sync the information between devices.  
+I have a need to track a lot of deliveries that are incoming and outbound and needed an application to consolidate tracking information for all of the different services, that are utilized by my business and by the likes of Amazon, Apple, etc.  My go-to app to keep track of all the deliveries is the aptly named [Deliveries](https://itunes.apple.com/us/app/delivery-status-touch-package/id290986013?mt=8&amp;uo=4&amp;at=1l3v3UY) by Junecloud.  I am able to enter my tracking numbers and it automatically detects the service via the number I entered.  There is also a [widget](http://junecloud.com/software/mac/delivery-status.html) available for free where you use Junecloud’s free sync service to sync the information between devices.  
 
-All in all, [Deliveries](https://itunes.apple.com/us/app/delivery-status-touch-package/id290986013?mt=8&uo=4&at=1l3v3UY) is a well designed app that does one thing very well:  track my deliveries!
+All in all, [Deliveries](https://itunes.apple.com/us/app/delivery-status-touch-package/id290986013?mt=8&amp;uo=4&amp;at=1l3v3UY) is a well designed app that does one thing very well:  track my deliveries!
 
 
 ### [Slack](https://slack.com/r/02m97853-02mmb41t) (Patrice)
