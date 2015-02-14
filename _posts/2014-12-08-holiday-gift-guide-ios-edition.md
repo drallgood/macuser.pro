@@ -3,7 +3,7 @@ post_title: 'Holiday Gift Guide: iOS Edition'
 author: "Patrice Brend'amour"
 post_date: 2014-12-08 18:22:33
 post_excerpt: |
-  <p>The holidays are fast approaching, so is the time for great gifts for your business partners, employees, friends and family members. And we all know, picking the right gift for them can be a daunting task.</p><p>That's why we've created this series of guides for you. Each guide features a particular category (iOS, Mac, Gadgets) and contains hardware and software picks alike. That should give you a nice range of options, depending on your budget and needs.</p><p>As this is the iOS guide, here are our picks:</p><ul><li>Square Register</li><li>Square Cash</li><li>sDock Air</li><li><h3 style="margin-left:0px; margin-right:0px">Anker 12800 mAh Astro Battery Pack</h3></li></ul><p>Click on the link below to read more about each of these:</p>
+  <p>The holidays are fast approaching, so is the time for great gifts for your business partners, employees, friends and family members. And we all know, picking the right gift for them can be a daunting task.</p><p>That's why we've created this series of guides for you. Each guide features a particular category (iOS, Mac, Gadgets) and contains hardware and software picks alike. That should give you a nice range of options, depending on your budget and needs.</p><p>As this is the iOS guide, here are our picks:</p><ul><li>Square Register</li><li>Square Cash</li><li>sDock Air</li><li><h3 style="margin-left:0px;margin-right:0px">Anker 12800 mAh Astro Battery Pack</h3></li></ul><p>Click on the link below to read more about each of these:</p>
 layout: post
 permalink: >
   http://macuser.pro/2014/12/08/holiday-gift-guide-ios-edition/
@@ -20,6 +20,7 @@ link_url:
 link_title:
   - 
 ---
+
 The holidays are fast approaching, so is the time for great gifts for your business partners, employees, friends and family members. And we all know, picking the right gift for them can be a daunting task.
 
 That's why we've created this series of guides for you. Each guide features a particular category (iOS, Mac, Gadgets) and contains hardware and software picks alike. That should give you a nice range of options, depending on your budget and needs.
