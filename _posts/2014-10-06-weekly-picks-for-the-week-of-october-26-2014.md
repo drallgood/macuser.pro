@@ -21,6 +21,7 @@ link_url:
 link_title:
   - 
 ---
+
 Every week, we pick the most notable apps, hardware, podcasts or what ever else we've encountered and think you should know of. This post will also be updated regularly throughout the week as we find more amazing stuff. So check back every now and then to learn about our latest findings.
 
 We'd also like to know your opinions about our picks and/or your picks this week. Please leave a comment below to chime in.
@@ -37,11 +38,11 @@ Speaking of amperages. The charger uses intelligent port detection (dubbed Power
 
 As you might have guessed, this little charger has replaced all those chargers I was using before. It's a relatively inexpensive and tiny device, but makes a huge difference on my nightstand. 
 
-### [iWerkz Bluetooth Keyboard](http://www.amazon.com/gp/product/B00EKZHGW6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EKZHGW6&linkCode=as2&tag=wwwjeromekoeh-20&linkId=JDOUVVHOYI7HNV5O "iWerkz Bluetooth Keyboard") (Jerome)
+### [iWerkz Bluetooth Keyboard](http://www.amazon.com/gp/product/B00EKZHGW6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00EKZHGW6&amp;linkCode=as2&amp;tag=wwwjeromekoeh-20&amp;linkId=JDOUVVHOYI7HNV5O "iWerkz Bluetooth Keyboard") (Jerome)
 
 ![iWerkz Bluetooth Keyboard][iwerkz]
 
-I have been searching for a great, portable bluetooth keyboard for a while now and ended up purchasing the [iWerkz Bluetooth Keyboard](http://www.amazon.com/gp/product/B00EKZHGW6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EKZHGW6&linkCode=as2&tag=wwwjeromekoeh-20&linkId=JDOUVVHOYI7HNV5O "iWerkz Bluetooth Keyboard") due to its portability, price, and ability to connect wirelessly to my iPad.  The keyboard folds in half and fits into a small case that doubles as a stand for either an iPad or iPhone as needed.  Due to its miniscule size, it is much nicer to travel with than my Logitech K760, with its photovoltaic panel, in my bag.  The iWerkz keyboard charges via a microUSB cable that is included with the device.  All in all, I love this keyboard and it has made my iPad and iPhone even more powerful when I need to type fast!  
+I have been searching for a great, portable bluetooth keyboard for a while now and ended up purchasing the [iWerkz Bluetooth Keyboard](http://www.amazon.com/gp/product/B00EKZHGW6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00EKZHGW6&amp;linkCode=as2&amp;tag=wwwjeromekoeh-20&amp;linkId=JDOUVVHOYI7HNV5O "iWerkz Bluetooth Keyboard") due to its portability, price, and ability to connect wirelessly to my iPad.  The keyboard folds in half and fits into a small case that doubles as a stand for either an iPad or iPhone as needed.  Due to its miniscule size, it is much nicer to travel with than my Logitech K760, with its photovoltaic panel, in my bag.  The iWerkz keyboard charges via a microUSB cable that is included with the device.  All in all, I love this keyboard and it has made my iPad and iPhone even more powerful when I need to type fast!  
 
 
 
