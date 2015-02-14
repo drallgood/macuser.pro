@@ -21,6 +21,7 @@ link_url:
 link_title:
   - 
 ---
+
 Every week, we pick the most notable apps, hardware, podcasts or what ever else we've encountered and think you should know of. This post will also be updated regularly throughout the week as we find more amazing stuff. So check back every now and then to learn about our latest findings.
 
 We'd also like to know your opinions about our picks and/or your picks this week. Please leave a comment below to chime in.
@@ -29,7 +30,7 @@ We'd also like to know your opinions about our picks and/or your picks this week
 
 ## Patrice
 
-### [Airmail 2](https://itunes.apple.com/us/app/airmail-2.0/id918858936?mt=12&uo=4&at=1l3vb3F)
+### [Airmail 2](https://itunes.apple.com/us/app/airmail-2.0/id918858936?mt=12&amp;uo=4&amp;at=1l3vb3F)
 
 In the past few years, we thought the market for third-party email apps was dead. There was Outlook, Apple Mail and Gmail, and that was it. Then, something happened. Now we have email clients for almost every taste: from minimalistic Gmail-only apps to full-featured apps, from very specialized ones to generalists and from rather ugly interfaces to really beautiful ones.  
 
