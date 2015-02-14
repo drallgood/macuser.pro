@@ -2,8 +2,7 @@
 post_title: 'Holiday Gift Guide: Gadgets, Services and Books'
 author: "Patrice Brend'amour"
 post_date: 2014-12-19 21:06:54
-post_excerpt: |
-  <p>The holidays are fast approaching, so is the time for great gifts for your business partners, employees, friends and family members. And we all know, picking the right gift for them can be a daunting task.</p><p>That's why we've created this series of guides for you. Each guide features a particular category (iOS, Mac, Gadgets) and contains hardware and software picks alike. That should give you a nice range of options, depending on your budget and needs.</p><p>As this is the gadget guide, things are a little bit different this time around. Instead of dividing the guide into software and hardware picks, it's open season. Everything goes, as long as it can be used with a multitude of different devices or is useful in some other form.</p><p>Here are our picks:</p><ul dir="ltr"><li>Fujitsu ScanSnap iX500</li><li>Rickshaw Bags</li><li>Cloak VPN</li><li>Remote - Office not required</li><li>The Lean Startup</li></ul>
+post_excerpt: "<p>The holidays are fast approaching, so is the time for great gifts for your business partners, employees, friends and family members. And we all know, picking the right gift for them can be a daunting task.</p><p>That's why we've created this series of guides for you. Each guide features a particular category (iOS, Mac, Gadgets) and contains hardware and software picks alike. That should give you a nice range of options, depending on your budget and needs.</p><p>As this is the gadget guide, things are a little bit different this time around. Instead of dividing the guide into software and hardware picks, it's open season. Everything goes, as long as it can be used with a multitude of different devices or is useful in some other form.</p><p>Here are our picks:</p><ul><li>Fujitsu ScanSnap iX500</li><li>Rickshaw Bags</li><li>Cloak VPN</li><li>Remote - Office not required</li><li>The Lean Startup</li></ul>"
 layout: post
 permalink: >
   http://macuser.pro/2014/12/19/holiday-gift-guide-gadgets-gadgets-gadgets/
@@ -20,6 +19,7 @@ link_url:
 link_title:
   - 
 ---
+
 The holidays are fast approaching, so is the time for great gifts for your business partners, employees, friends and family members. And we all know, picking the right gift for them can be a daunting task.
 
 That's why we've created this series of guides for you. Each guide features a particular category (iOS, Mac, Gadgets) and contains hardware and software picks alike. That should give you a nice range of options, depending on your budget and needs.
