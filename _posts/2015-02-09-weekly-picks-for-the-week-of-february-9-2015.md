@@ -48,7 +48,7 @@ That's where [Authy][aut] comes in handy. It uses Google's authentication system
 
 What's nice about this app, and what makes it better than Google's app, is the fact that it not only works on both your iPad and iPhone, but also syncs between them. Granted, not everybody will like that (because of the inherent security issues), but it's convenient as hell. And [Authy][aut] promises, that everything is encrypted and secure.
 
-[Authy][aut] also offers an API and a WordPress plugin, so if you want to add two-factor authentication to your app or website, you should check that out.
+[Authy][aut] also offers an API and a WordPress and SSH plugin, so if you want to add two-factor authentication to your app or website, you should check that out.
 
 ***
 
