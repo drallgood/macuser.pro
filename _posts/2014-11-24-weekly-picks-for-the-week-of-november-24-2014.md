@@ -21,6 +21,7 @@ link_url:
 link_title:
   - 
 ---
+
 Every week, we pick the most notable apps, hardware, podcasts or what ever else we've encountered and think you should know of. This post will also be updated regularly throughout the week as we find more amazing stuff. So check back every now and then to learn about our latest findings.
 
 We'd also like to know your opinions about our picks and/or your picks this week. Please leave a comment below to chime in.
@@ -45,7 +46,7 @@ As you can see, Square steamrolled the barriers of entry for small businesses to
 
 ## Patrice
 
-### [Synchronize App](https://itunes.apple.com/us/app/synchronize/id371177261?mt=8&uo=4&at=1l3vb3F)
+### [Synchronize App](https://itunes.apple.com/us/app/synchronize/id371177261?mt=8&amp;uo=4&amp;at=1l3vb3F)
 
 If you've ever worked with people in different timezones, you know what a pain it can be. Especially if you take things like daylight savings into account. There are a number of apps/services I use regularly to help me schedule meetings (one of which I picked a few weeks ago), but today I want to pick a little App that makes it really easy to just figure out what time it will be in any number of timezones for any given time in another (I'm not making much sense, I know, but stick with me, it will become clearer in a minute).
 
