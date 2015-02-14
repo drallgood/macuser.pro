@@ -4,8 +4,7 @@ post_title: >
   15, 2014
 author: "Patrice Brend'amour"
 post_date: 2014-09-15 18:13:29
-post_excerpt: |
-  <p>Every week, we pick the most notable apps, hardware, podcasts or what ever else we've encountered and think you should know of. This post will also be updated regularly throughout the week as we find more amazing stuff. So check back every now and then to learn about our latest findings.</p><p> </p><p>Our picks this week:</p><ul dir="ltr"><li>Cash by Square</li><li>1Password for iOS8 by Agilebits</li></ul>
+post_excerpt: "<p>Every week, we pick the most notable apps, hardware, podcasts or what ever else we've encountered and think you should know of. This post will also be updated regularly throughout the week as we find more amazing stuff. So check back every now and then to learn about our latest findings.</p><p> </p><p>Our picks this week:</p><ul><li>Cash by Square</li><li>1Password for iOS8 by Agilebits</li></ul>"
 layout: post
 permalink: >
   http://macuser.pro/2014/09/15/weekly-picks-for-the-week-of-september-15-2014/
@@ -22,6 +21,7 @@ link_url:
 link_title:
   - 
 ---
+
 Every week, we pick the most notable apps, hardware, podcasts or what ever else we've encountered and think you should know of. This post will also be updated regularly throughout the week as we find more amazing stuff. So check back every now and then to learn about our latest findings.
 
 We'd also like to know your opinions about our picks and/or your picks this week. Please leave a comment below to chime in.
@@ -29,7 +29,7 @@ We'd also like to know your opinions about our picks and/or your picks this week
 
 ## Picks
 
-###[Cash](https://itunes.apple.com/us/app/cash-send-money-for-free/id711923939?mt=8&uo=4&at=1l3v3UY) (Jerome)
+###[Cash](https://itunes.apple.com/us/app/cash-send-money-for-free/id711923939?mt=8&amp;uo=4&amp;at=1l3v3UY) (Jerome)
 
 ![Square Cash app][cash]
 
@@ -37,7 +37,7 @@ There have been multiple occasions where I had to quickly request money or send 
 
 For anyone curious how the service functions, head on over to the  site and have Square send you a test dollar.  As I mentioned before, if you need to send or request money in a expedited fashion, place your bets on [Cash](https://square.com/cash).
 
-### [1Password on iOS8](https://itunes.apple.com/us/app/1password-password-manager/id568903335?mt=8&uo=4&at=1l3vb3F) (Patrice)
+### [1Password on iOS8](https://itunes.apple.com/us/app/1password-password-manager/id568903335?mt=8&amp;uo=4&amp;at=1l3vb3F) (Patrice)
 
 ![1Password for iPad][onePassword]
 
