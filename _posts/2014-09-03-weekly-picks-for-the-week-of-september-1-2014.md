@@ -4,8 +4,7 @@ post_title: >
   1, 2014
 author: "Patrice Brend'amour"
 post_date: 2014-09-03 13:24:53
-post_excerpt: |
-  <p>Every week, we pick the most notable apps, hardware, podcasts or what ever else we've encountered and think you should know of. This post will also be updated regularly throughout the week as we find more amazing stuff. So check back every now and then to learn about our latest findings.</p><p> </p><p>This weeks picks:</p><ul dir="ltr"><li>Blue Microphones: Nessie</li><li>Sound Bunny</li></ul>
+post_excerpt: "<p>Every week, we pick the most notable apps, hardware, podcasts or what ever else we've encountered and think you should know of. This post will also be updated regularly throughout the week as we find more amazing stuff. So check back every now and then to learn about our latest findings.</p><p> </p><p>This weeks picks:</p><ul><li>Blue Microphones: Nessie</li><li>Sound Bunny</li></ul>"
 layout: post
 permalink: >
   http://macuser.pro/2014/09/03/weekly-picks-for-the-week-of-september-1-2014/
@@ -22,6 +21,7 @@ link_url:
 link_title:
   - 
 ---
+
 Every week, we pick the most notable apps, hardware, podcasts or what ever else we've encountered and think you should know of. This post will also be updated regularly throughout the week as we find more amazing stuff. So check back every now and then to learn about our latest findings.
 
 We'd also like to know your opinions about our picks and/or your picks this week. Please leave a comment below to chime in.
