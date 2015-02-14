@@ -23,6 +23,7 @@ link_url:
 link_title:
   - 
 ---
+
 iCloud has been at the center of Apple's ecosystem for a couple of years now. It's very versatile and can serve as a handy storage solution for your photos and documents, as a sync service for contacts and calendars or as a database backend for your apps. Initially deemed unreliable, partially due to its abysmal predecessors but also because it clearly needed some work, it has evolved into the ever present, reliable service we enjoy today.
 
 However, there were a few limitations:<br />
