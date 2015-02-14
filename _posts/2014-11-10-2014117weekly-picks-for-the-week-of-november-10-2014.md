@@ -21,13 +21,14 @@ link_url:
 link_title:
   - 
 ---
+
 Every week, we pick the most notable apps, hardware, podcasts or what ever else we've encountered and think you should know of. This post will also be updated regularly throughout the week as we find more amazing stuff. So check back every now and then to learn about our latest findings.
 
 We'd also like to know your opinions about our picks and/or your picks this week. Please leave a comment below to chime in.
 
 # Picks
 # Patrice
-## [Buffer for iOS](https://itunes.apple.com/us/app/buffer-for-social-media-twitter/id490474324?mt=8&uo=4&at=1l3vb3F)
+## [Buffer for iOS](https://itunes.apple.com/us/app/buffer-for-social-media-twitter/id490474324?mt=8&amp;uo=4&amp;at=1l3vb3F)
 
 ![Buffer on my iPad][buffer]
 
