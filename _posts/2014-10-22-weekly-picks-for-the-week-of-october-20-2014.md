@@ -21,6 +21,7 @@ link_url:
 link_title:
   - 
 ---
+
 Every week, we pick the most notable apps, hardware, podcasts or whatever else we encounter and think you should know about. This post will also be updated regularly throughout the week as we find more amazing stuff. So check back every now and then to learn about our latest findings.
 
 We'd also like to know your opinions about our picks and/or your picks this week. Please leave a comment below to chime in.
@@ -37,13 +38,13 @@ The yarn itself is relatively expensive and hard to weave, so naturally the bags
 
 (Oh and if someone wants to order one for me, he/she would make me really happy. Ordering anything in the US is freaking expensive when you're living in Europe...)
 
-###[Line](https://itunes.apple.com/us/app/line/id443904275?mt=8&uo=4&at=1l3v3UY) (Jerome)
+###[Line](https://itunes.apple.com/us/app/line/id443904275?mt=8&amp;uo=4&amp;at=1l3v3UY) (Jerome)
 
-The [Line](https://itunes.apple.com/us/app/line/id443904275?mt=8&uo=4&at=1l3v3UY) messaging application has become very popular in countries outside US and is also starting to gain traction in the US.  
+The [Line](https://itunes.apple.com/us/app/line/id443904275?mt=8&amp;uo=4&amp;at=1l3v3UY) messaging application has become very popular in countries outside US and is also starting to gain traction in the US.  
 
 ![Line][line]
 
-If you have a business that has to communicate with people in the East, the [Line](https://itunes.apple.com/us/app/line/id443904275?mt=8&uo=4&at=1l3v3UY) app is almost ubiquitous in use.  Many of my friends and contacts in Japan use Line, and in fact it is their preferred way of communicating.  As with most all communication applications, [Line](https://itunes.apple.com/us/app/line/id443904275?mt=8&uo=4&at=1l3v3UY)  exists not only on iOS, but also on many other platforms (Android, the Mac, Windows).  Line even allows for switching between video or voice communication when needed.  Bottom line:  Next to the Messages app, Line takes second place with the amount of messages it sends and receives.  Best of all, the application and service are free.  [Line](https://itunes.apple.com/us/app/line/id443904275?mt=8&uo=4&at=1l3v3UY) makes money by releasing games and selling stickers, themes, etc that tie into their platform.  To use the plain old application, you do not have to spend a penny!  
+If you have a business that has to communicate with people in the East, the [Line](https://itunes.apple.com/us/app/line/id443904275?mt=8&amp;uo=4&amp;at=1l3v3UY) app is almost ubiquitous in use.  Many of my friends and contacts in Japan use Line, and in fact it is their preferred way of communicating.  As with most all communication applications, [Line](https://itunes.apple.com/us/app/line/id443904275?mt=8&amp;uo=4&amp;at=1l3v3UY)  exists not only on iOS, but also on many other platforms (Android, the Mac, Windows).  Line even allows for switching between video or voice communication when needed.  Bottom line:  Next to the Messages app, Line takes second place with the amount of messages it sends and receives.  Best of all, the application and service are free.  [Line](https://itunes.apple.com/us/app/line/id443904275?mt=8&amp;uo=4&amp;at=1l3v3UY) makes money by releasing games and selling stickers, themes, etc that tie into their platform.  To use the plain old application, you do not have to spend a penny!  
 
 ### [Cocoon Grid-It](http://www.cocooninnovations.com/cat_info.php) (Kelly)
 
