@@ -29,6 +29,7 @@ link_url:
 link_title:
   - 
 ---
+
 We hope you've all enjoyed your time off over the holidays and new year. Now that you're back at work, we want to aget back into our old habit of posting our weekly picks again. So, enjoy!
 
 Every week, we pick the most notable apps, hardware, podcasts or what ever else we've encountered and think you should know of. This post will also be updated regularly throughout the week as we find more amazing stuff. So check back every now and then to learn about our latest findings.
