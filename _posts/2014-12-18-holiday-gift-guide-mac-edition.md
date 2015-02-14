@@ -19,6 +19,7 @@ link_url:
 link_title:
   - 
 ---
+
 The holidays are fast approaching, so is the time for great gifts for your business partners, employees, friends and family members. And we all know, picking the right gift for them can be a daunting task.
 
 That's why we've created this series of guides for you. Each guide features a particular category (iOS, Mac, Gadgets) and contains hardware and software picks alike. That should give you a nice range of options, depending on your budget and needs.
