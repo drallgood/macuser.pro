@@ -19,6 +19,7 @@ link_url:
 link_title:
   - 
 ---
+
 Whether you're using your Mac or iOS device to organize your work/life, or the good old pen &amp; paper method: you'll almost inevitably run into the issue what to put on your calendar vs. your to-do list.
 
 You don't want to clutter your calendar with all these tasks that really only have a soft due date (something that can be moved if necessary), and you don't want to check multiple places to know what is urgent and needs to be done right away. And especially if you're using apps for this task, it's easy to put too many items into your system or (even worse) duplicate them for the sake of convenience.
