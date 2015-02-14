@@ -23,6 +23,7 @@ link_url:
 link_title:
   - 
 ---
+
 [caption id="attachment_179" align="alignleft" width="169"]<a href="/wp-content/uploads/2014/09/ios8_call_iPhone.png"><img src="http://mup.brendamour.net/wp-content/uploads/2014/09/ios8_call_iPhone-169x300.png" alt="Receiving a call on an iPhoneReceiving a call on an iPhone" width="169" height="300" class="size-medium wp-image-179" /></a> Receiving a call on an iPhone[/caption]
 With iOS8, and later this year OS X Yosemite, Apple introduces a pretty nifty feature that may very well transform the way you're taking phone calls while being in the office or working from home.
 
