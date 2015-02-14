@@ -22,7 +22,7 @@ Pinterest:  <a href="http://www.pinterest.com/jeromekoehler/">jeromekoehler</a>
 
 <h2>Jerome's Bag of Holding</h2>
 
-<ul dir="ltr">
+<ul>
     <li>Rickshaw Bagworks Commuter 2.0</li>
     <li>Mid 2012 15" Retina MacBook Pro</li>
     <li>Jabra Revo</li>
@@ -34,9 +34,9 @@ Pinterest:  <a href="http://www.pinterest.com/jeromekoehler/">jeromekoehler</a>
     <li>Jot Evernote Edition</li>
 </ul>
 
-<h2 dir="ltr">Current Top 10 iOS Apps</h2>
+<h2>Current Top 10 iOS Apps</h2>
 
-<ul dir="ltr">
+<ul>
     <li>Overcast</li>
     <li>Paper</li>
     <li>Instapaper</li>
@@ -51,7 +51,7 @@ Pinterest:  <a href="http://www.pinterest.com/jeromekoehler/">jeromekoehler</a>
 
 <h2>Current Top 10 Mac Apps</h2>
 
-<ul dir="ltr">
+<ul>
     <li>Reeder</li>
     <li>Text Expander</li>
     <li>Alfred</li>
@@ -68,7 +68,7 @@ Pinterest:  <a href="http://www.pinterest.com/jeromekoehler/">jeromekoehler</a>
 
 &nbsp;
 
-<span style="font-size: 14px;">Originally a heavy Windows based user, I discovered the joys of a Mac while working in the Geek Squad at Best Buy.  I promptly applied for a Genius position at Apple, met my friend Doc, and had a fulfilling career working with Apple as a Genius and a Apple Solutions Consultant.</span>
+<span style="font-size: 14px">Originally a heavy Windows based user, I discovered the joys of a Mac while working in the Geek Squad at Best Buy.  I promptly applied for a Genius position at Apple, met my friend Doc, and had a fulfilling career working with Apple as a Genius and a Apple Solutions Consultant.</span>
 
 Currently, I am working as a project manager at the Hawaii Information Consortium, dabbling with photography, and heaping out my friends in need when a Mac / iOS issue surfaces.
 
