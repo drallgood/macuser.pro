@@ -4,8 +4,7 @@ post_title: >
   2014
 author: "Patrice Brend'amour"
 post_date: 2014-08-19 10:47:54
-post_excerpt: |
-  <p>Every week, we pick the most notable apps, hardware, podcasts or what ever else we've encountered and think you should know of. This post will also be updated regularly thoughout the week as we find more amazing stuff. So check back every now and then to learn about our latest findings.</p><p>Our picks this week:</p><ul dir="ltr"><li>Jabra Revo Wireless Bluetooth Headphones</li><li>Assistant.io</li><li>Airfoil</li><li>Vector podcast, episode 54</li></ul>
+post_excerpt: "<p>Every week, we pick the most notable apps, hardware, podcasts or what ever else we've encountered and think you should know of. This post will also be updated regularly thoughout the week as we find more amazing stuff. So check back every now and then to learn about our latest findings.</p><p>Our picks this week:</p><ul><li>Jabra Revo Wireless Bluetooth Headphones</li><li>Assistant.io</li><li>Airfoil</li><li>Vector podcast, episode 54</li></ul>"
 layout: post
 permalink: >
   http://macuser.pro/2014/08/19/weekly-picks-for-the-week-of-july-18-2014/
@@ -22,6 +21,7 @@ link_url:
 link_title:
   - 
 ---
+
 Every week, we pick the most notable apps, hardware, podcasts or what ever else we've encountered and think you should know of. This post will also be updated regularly thoughout the week as we find more amazing stuff. So check back every now and then to learn about our latest findings.
 
 We'd also like to know your opinions about our picks and/or your picks this week. Please leave a comment below to chime in.
