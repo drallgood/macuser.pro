@@ -59,7 +59,7 @@ Even with iCloud drive, every document is stored in the iCloud container of the 
 
 Every time you try to open a file in one of the myriad of iCloud enabled apps, a iCloud drive view will open up and allow you to select the file(s) you want to work on. Once you've selected your files, the app will be granted access to those files and only those. Other files in the same container won't be available to the app. Please keep in mind, that you're editing the original file, not a copy of it. Whatever changes you make to it, will be available to other apps, too.
 
-## Upgrading your storage plan
+## Upgrading your storage plan <a name="upgrade-storage"></a>
 
 Especially for businesses, online storage like iCloud and Dropbox is an essential tool for storing, syncing and organizing your files. It enables you to access your files wherever you are and on whatever device you're using. Rarely will iCloud's free storage tier (5GB) be enough to store all your business's files. So, how do you upgrade your storage plan?
 
