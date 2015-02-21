@@ -41,15 +41,13 @@ We'd also like to know your opinions about our picks and/or your picks this week
 
 I've tried my fair share of mind mapping apps in the past few years. While I liked some of them, and some had really awesome features, none of them (so far) has been THE ONE app/service that offers everything I want. That being said, [Mindmeister][mm] is as close at it gets to being ideal (for me). The one thing that has always irked me is the fact that the service is relatively expensive for what it offers. I'm all for paid services, but this one just rubbed me the wrong way. If you only ever need a few (3) maps at a time, the service is completely free, though.
 
-Other than that, it really does a great job at allowing you to easily create awesome mind maps and (and that's the best part) collaborate on them. I've used [Mindmeister][mm] for more than a few client projects, collaborating with them (or my team) on what the service/software should do. In a way it has almost replaced our issue tracker/task management system (at least for the very high level stuff).  
+Other than that, it really does a great job at allowing you to easily create awesome mind maps and (and that's the best part) collaborate on them. I've used [Mindmeister][mm] for more than a few client projects, collaborating with them (or my team) on what the service/software should do. In a way it has almost replaced our issue tracker/task management system (at least for the very high level stuff).
 
-What else can I say about [Mindmeister][mm]? Not much. It gets out of the way, offers a lot of option for customization (different colors, fonts, icons, ...) and can be controlled entirely by keyboard if needed. Something that is important for keyboard types like me (and most developers).  
+What else can I say about [Mindmeister][mm]? Not much. It gets out of the way, offers a lot of option for customization (different colors, fonts, icons, ...) and can be controlled entirely by keyboard if needed. Something that is important for keyboard types like me (and most developers).
 They also have an [iPad app][mmiOS], that allows you do create mandamus on the go. In fact, I create most maps on my iPad!
-
 
 ***
 
-
 [mm]: https://www.mindmeister.com/?r=91104 "Mindmeister"
-[mmiOS]: https://itunes.apple.com/us/app/mindmeister-mind-mapping/id381073026?mt=8&uo=4&at=1l3vb3F "Mindmeister on iOS"
+[mmiOS]: https://itunes.apple.com/us/app/mindmeister-mind-mapping/id381073026?mt=8&amp;uo=4&amp;at=1l3vb3F "Mindmeister on iOS"
 [mmIMG]: http://macuser.pro/wp-content/uploads/2015/02/mindmeistercom.png "Mindmeister.com"
