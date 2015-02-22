@@ -46,8 +46,17 @@ Other than that, it really does a great job at allowing you to easily create awe
 What else can I say about [Mindmeister][mm]? Not much. It gets out of the way, offers a lot of option for customization (different colors, fonts, icons, ...) and can be controlled entirely by keyboard if needed. Something that is important for keyboard types like me (and most developers).
 They also have an [iPad app][mmiOS], that allows you do create mandamus on the go. In fact, I create most maps on my iPad!
 
+## Jerome
+
+### [6 Reasons Why It's Just as Important to Be a Good Business-Person, as It Is to Be a Good Photographer][1]
+
+My pick for this week is both short and not a physical, tangible product, but some great advice on how to be a better business-person.  I have met many people in my life who complain about their lack of success even though they have some skill or knowledge that should make them successful (Heck, I fall into this camp too unless I catch this bad habit).  The complaint usually surfaces when someone who, in that person's mind, is not as "smart" but much more successful in every aspect of their life.  Here is the difference between those two types of people:  One just complains and the other knows how to be a good business-person.  Mike Wilkinson over[Fstoppers][2] has posted a great article on their site and, even though it is photography themed, all of these suggestions can be adjusted to different types of professions.  So, before you complain about how smart you are and how no one is throwing money at you, please make sure you know how to be a good business-person!  
+
 ***
 
 [mm]: https://www.mindmeister.com/?r=91104 "Mindmeister"
 [mmiOS]: https://itunes.apple.com/us/app/mindmeister-mind-mapping/id381073026?mt=8&amp;uo=4&amp;at=1l3vb3F "Mindmeister on iOS"
 [mmIMG]: http://macuser.pro/wp-content/uploads/2015/02/mindmeistercom.png "Mindmeister.com"
+
+[1]: https://fstoppers.com/bts/6-reasons-why-its-just-important-be-good-business-person-it-be-good-photographer-58176?utm_source=FS_RSS&utm_medium=RSS&utm_campaign=Main_RSS "article on fstoppers on why to be a good business-person and a good photographer"
+[2]:  https://fstoppers.com "fstoppers main page"
