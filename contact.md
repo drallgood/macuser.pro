@@ -10,8 +10,6 @@ ac_featured_article:
 ac_show_post_thumbnail:
   - 
 ---
-
-
 SPONSOR INFO
 <a href="mailto:sponsors@macusers.pro">s</a><a href="mailto:sponsors@macusers.pro">ponsors@macusers.pro</a>
 
