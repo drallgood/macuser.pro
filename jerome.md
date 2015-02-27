@@ -10,52 +10,60 @@ ac_featured_article:
 ac_show_post_thumbnail:
   - 
 ---
-
 <h1 class="text-align-center">Jerome Koehler</h1>
+
 <h2>Social</h2>
+
 Twitter:  <a href="https://twitter.com/jeromekoehler">@jeromekoehler</a>
 App.net:  <a href="https://alpha.app.net/jeromekoehler">@jeromekoehler</a>
 Facebook:  <a href="https://www.facebook.com/jerome.koehler">jerome.koehler</a>
 YouTube:  <a href="https://www.youtube.com/user/jeromekoehler">jeromekoehler</a>
 Pinterest:  <a href="http://www.pinterest.com/jeromekoehler/">jeromekoehler</a>
+
 <h2>Jerome's Bag of Holding</h2>
+
 <ul>
-	<li>Rickshaw Bagworks Commuter 2.0</li>
-	<li>Mid 2012 15" Retina MacBook Pro</li>
-	<li>Jabra Revo</li>
-	<li>Anker 3</li>
-	<li>Logitech Touch Mouse</li>
-	<li>32GB iPad Air w/ LTE</li>
-	<li>Fuji X-T1</li>
-	<li>Roost Stand</li>
-	<li>Jot Evernote Edition</li>
+    <li>Rickshaw Bagworks Commuter 2.0</li>
+    <li>Mid 2012 15" Retina MacBook Pro</li>
+    <li>Jabra Revo</li>
+    <li>Anker 3</li>
+    <li>Logitech Touch Mouse</li>
+    <li>32GB iPad Air w/ LTE</li>
+    <li>Fuji X-T1</li>
+    <li>Roost Stand</li>
+    <li>Jot Evernote Edition</li>
 </ul>
+
 <h2>Current Top 10 iOS Apps</h2>
+
 <ul>
-	<li>Overcast</li>
-	<li>Paper</li>
-	<li>Instapaper</li>
-	<li>OmniFocus</li>
-	<li>Editorial</li>
-	<li>Alien Blue</li>
-	<li>Drafts</li>
-	<li>Dispatch</li>
-	<li>1Password</li>
-	<li>Fantastical</li>
+    <li>Overcast</li>
+    <li>Paper</li>
+    <li>Instapaper</li>
+    <li>OmniFocus</li>
+    <li>Editorial</li>
+    <li>Alien Blue</li>
+    <li>Drafts</li>
+    <li>Dispatch</li>
+    <li>1Password</li>
+    <li>Fantastical</li>
 </ul>
+
 <h2>Current Top 10 Mac Apps</h2>
+
 <ul>
-	<li>Reeder</li>
-	<li>Text Expander</li>
-	<li>Alfred</li>
-	<li>Byword</li>
-	<li>OmniFocus 2</li>
-	<li>Transporter</li>
-	<li>Tweetbot</li>
-	<li>Fantastical</li>
-	<li>CrashPlan</li>
-	<li>Carbon Copy Cloner</li>
+    <li>Reeder</li>
+    <li>Text Expander</li>
+    <li>Alfred</li>
+    <li>Byword</li>
+    <li>OmniFocus 2</li>
+    <li>Transporter</li>
+    <li>Tweetbot</li>
+    <li>Fantastical</li>
+    <li>CrashPlan</li>
+    <li>Carbon Copy Cloner</li>
 </ul>
+
 &nbsp;
 
 &nbsp;
