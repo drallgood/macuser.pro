@@ -65,7 +65,6 @@ panels_data:
     
     For now, I'm located in the western part of Germany.";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:1;s:2:"id";i:2;s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}}s:5:"grids";a:1:{i:0;a:2:{s:5:"cells";i:2;s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}s:10:"grid_cells";a:2:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";d:0.38196600790794;}i:1;a:2:{s:4:"grid";i:0;s:6:"weight";d:0.61803399209206;}}}
 ---
-
 <h3 class="widget-title">Social</h3>
 
 <ul>
