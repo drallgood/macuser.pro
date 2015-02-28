@@ -10,6 +10,7 @@ post_excerpt: |
   Our picks this week:
   <ul>
   	<li>Mindmeister</li>
+  	<li>6 Reasons Why It's Just as Important to Be a Good Business-Person, as It Is to Be a Good Photographer</li>
   </ul>
 layout: post
 permalink: >
