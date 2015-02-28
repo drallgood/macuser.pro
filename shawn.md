@@ -6,6 +6,7 @@ post_excerpt:
 layout: page
 permalink: http://macuser.pro/shawn/
 ---
+
 <h1 class="text-align-center">Shawn "Doc" Boyd</h1>
 
 <h2>Social</h2>
