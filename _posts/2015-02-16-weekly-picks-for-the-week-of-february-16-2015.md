@@ -27,6 +27,7 @@ link_url:
 link_title:
   - 
 ---
+
 Every week, we pick the most notable apps, hardware, podcasts or what ever else we've encountered and think you should know of. This post will also be updated regularly throughout the week as we find more amazing stuff. So check back every now and then to learn about our latest findings.
 
 We'd also like to know your opinions about our picks and/or your picks this week. Please leave a comment below to chime in.
@@ -58,5 +59,5 @@ My pick for this week is both short and not a physical, tangible product, but so
 [mmiOS]: https://itunes.apple.com/us/app/mindmeister-mind-mapping/id381073026?mt=8&amp;uo=4&amp;at=1l3vb3F "Mindmeister on iOS"
 [mmIMG]: http://macuser.pro/wp-content/uploads/2015/02/mindmeistercom.png "Mindmeister.com"
 
-[1]: https://fstoppers.com/bts/6-reasons-why-its-just-important-be-good-business-person-it-be-good-photographer-58176?utm_source=FS_RSS&utm_medium=RSS&utm_campaign=Main_RSS "article on fstoppers on why to be a good business-person and a good photographer"
+[1]: https://fstoppers.com/bts/6-reasons-why-its-just-important-be-good-business-person-it-be-good-photographer-58176?utm_source=FS_RSS&amp;utm_medium=RSS&amp;utm_campaign=Main_RSS "article on fstoppers on why to be a good business-person and a good photographer"
 [2]:  https://fstoppers.com "fstoppers main page"
