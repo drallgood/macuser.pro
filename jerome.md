@@ -22,6 +22,7 @@ ac_show_post_thumbnail:
 
 
 
+
 <h1 class="text-align-center">Jerome Koehler</h1>
 
 <h2>Social</h2>
