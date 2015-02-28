@@ -115,7 +115,6 @@ We suggest doing just that, because having enough storage for your backup is one
 [icMUP]: http://macuser.pro/?s=icloud "iCloud"
 [icdMUP]: http://macuser.pro/2014/11/01/using-and-organizing-icloud-drive-on-os-x-yosemite/ "iCloud Drive"
 [upgrMUP]: http://macuser.pro/2014/10/10/ios-8-the-new-icloud/#upgrade-storage "Upgrading your Storage Plan"
-
 [icl]: http://icloud.com
 [airmail]: http://airmail.com
 [calling]: http://macuser.pro/2014/09/23/ios-8-taking-phone-calls-on-your-ipad-and-mac/ "iOS 8: Taking phone calls on your iPad (and Mac)"
