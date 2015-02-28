@@ -19,6 +19,7 @@ link_url:
 link_title:
   - 
 ---
+
 We've talked about iCloud [a couple of times][icMUP] on the Professional Apple Users Academy, as it's&nbsp;one of the most important pillars of Apple's ecosystem nowadays. Still, many people don't know what iCloud really is, aside from that login they had to create when they first set up their new iOS Device.
 
 This article is intended as a starting point for anyone who is new to Apple's ecosystem and wants to understand what iCloud really is and how they can use it. We'll add links to additional articles talking about certain parts of iCloud in more detail when they are posted. So feel free to add this page to your bookmarks.
