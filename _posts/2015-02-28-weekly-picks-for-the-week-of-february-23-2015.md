@@ -55,7 +55,7 @@ For someone who has used [Tweetbot][tboweb] on iOS for years, there's really not
 
 P.S.: They are working on a Yosemite update as we speak.
 
-[1]: http://support.apple.com "apple's support webpage"
+[1]: http://support.apple.com "Apple's support webpage"
 [2]: http://macuser.pro "macuser professional user academy webpage"
 [3]: http://www.apple.com "apple's website"
 [4]: http://support.apple.com/en-us/HT201236 "short cuts for Mac OS X link"
