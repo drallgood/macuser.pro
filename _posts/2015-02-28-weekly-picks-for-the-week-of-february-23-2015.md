@@ -88,7 +88,7 @@ P.S.: They are working on a Yosemite update as we speak.
 
 [1]: http://support.apple.com "Apple's support webpage"
 [2]: http://macuser.pro "Professional Apple Users Academy"
-[3]: http://www.apple.com "apple's website"
+[3]: http://www.apple.com "Apple's website"
 [4]: http://support.apple.com/en-us/HT201236 "short cuts for Mac OS X link"
 
 [tbo]: https://itunes.apple.com/us/app/tweetbot-for-twitter/id557168941?mt=12&amp;uo=4&amp;at=1l3vb3F
