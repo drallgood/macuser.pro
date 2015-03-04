@@ -1,4 +1,5 @@
 ---
+ID: 36
 post_title: >
   Weekly picks for the week of December 1,
   2014

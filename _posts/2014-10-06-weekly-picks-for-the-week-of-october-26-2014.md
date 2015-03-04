@@ -1,4 +1,5 @@
 ---
+ID: 51
 post_title: >
   Weekly picks for the week of October 6,
   2014

@@ -1,4 +1,5 @@
 ---
+ID: 57
 post_title: 'iOS 8: Taking phone calls on your iPad (and Mac)'
 author: "Patrice Brend'amour"
 post_date: 2014-09-23 16:44:57

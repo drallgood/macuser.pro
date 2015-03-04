@@ -1,4 +1,5 @@
 ---
+ID: 446
 post_title: >
   Weekly Picks for the Week of February
   23, 2015
@@ -28,6 +29,7 @@ link_url:
 link_title:
   - 
 ---
+
 Every week, we pick the most notable apps, hardware, podcasts or what ever else we've encountered and think you should know of. This post will also be updated regularly throughout the week as we find more amazing stuff. So check back every now and then to learn about our latest findings.
 
 We'd also like to know your opinions about our picks and/or your picks this week. Please leave a comment below to chime in.
@@ -57,8 +59,8 @@ P.S.: They are working on a Yosemite update as we speak.
 [2]: http://macuser.pro "macuser professional user academy webpage"
 [3]: http://www.apple.com "apple's website"
 [4]: http://support.apple.com/en-us/HT201236 "short cuts for Mac OS X link"
-[tbo]: https://itunes.apple.com/us/app/tweetbot-for-twitter/id557168941?mt=12&uo=4&at=1l3vb3F
-[tboi]: https://itunes.apple.com/us/app/tweetbot-3-for-twitter.-elegant/id722294701?mt=8&uo=4&at=1l3vb3F
+[tbo]: https://itunes.apple.com/us/app/tweetbot-for-twitter/id557168941?mt=12&amp;uo=4&amp;at=1l3vb3F
+[tboi]: https://itunes.apple.com/us/app/tweetbot-3-for-twitter.-elegant/id722294701?mt=8&amp;uo=4&amp;at=1l3vb3F
 [tboweb]: http://tapbots.com/software/tweetbot/
 [tboIMG]: http://macuser.pro/wp-content/uploads/2015/02/tweetbot_osx.png
 

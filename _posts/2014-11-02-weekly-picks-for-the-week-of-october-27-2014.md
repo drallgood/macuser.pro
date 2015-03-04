@@ -1,4 +1,5 @@
 ---
+ID: 42
 post_title: >
   Weekly picks for the week of October 27,
   2014
