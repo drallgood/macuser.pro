@@ -59,6 +59,7 @@ P.S.: They are working on a Yosemite update as we speak.
 [2]: http://macuser.pro "macuser professional user academy webpage"
 [3]: http://www.apple.com "apple's website"
 [4]: http://support.apple.com/en-us/HT201236 "short cuts for Mac OS X link"
+
 [tbo]: https://itunes.apple.com/us/app/tweetbot-for-twitter/id557168941?mt=12&amp;uo=4&amp;at=1l3vb3F
 [tboi]: https://itunes.apple.com/us/app/tweetbot-3-for-twitter.-elegant/id722294701?mt=8&amp;uo=4&amp;at=1l3vb3F
 [tboweb]: http://tapbots.com/software/tweetbot/
