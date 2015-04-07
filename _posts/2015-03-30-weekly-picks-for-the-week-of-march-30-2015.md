@@ -46,6 +46,8 @@ Trello works natively with attachments from Dropbox, Google Drive, Box, and MS O
 
 Trello is cloud based and free for your team members to use.  On the Mac Trello is <a href="http://www.trello.com">web-based</a> running on most browsers.  For iOS there is a <a href="https://itunes.apple.com/app/trello-organize-anything/id461504587">universal app</a> for the iPhone and iPad.
 
+***
+
 ## Jerome
 ### Resizing All Your Finder Columns in Unison
 
