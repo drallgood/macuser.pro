@@ -16,19 +16,21 @@ post_excerpt: |
 layout: post
 permalink: >
   http://macuser.pro/2015/02/28/weekly-picks-for-the-week-of-february-23-2015/
+published: true
 video_url:
-  - 
+  - ""
 audio_url:
-  - 
+  - ""
 quote_content:
-  - 
+  - ""
 quote_attribution:
-  - 
+  - ""
 link_url:
-  - 
+  - ""
 link_title:
-  - 
+  - ""
 ---
+
 Every week, we pick the most notable apps, hardware, podcasts or what ever else we've encountered and think you should know of. This post will also be updated regularly throughout the week as we find more amazing stuff. So check back every now and then to learn about our latest findings.
 
 We'd also like to know your opinions about our picks and/or your picks this week. Please leave a comment below to chime in.

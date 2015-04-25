@@ -19,19 +19,21 @@ post_excerpt: |
 layout: post
 permalink: >
   http://macuser.pro/2014/12/08/holiday-gift-guide-ios-edition/
+published: true
 video_url:
-  - 
+  - ""
 audio_url:
-  - 
+  - ""
 quote_content:
-  - 
+  - ""
 quote_attribution:
-  - 
+  - ""
 link_url:
-  - 
+  - ""
 link_title:
-  - 
+  - ""
 ---
+
 
 
 

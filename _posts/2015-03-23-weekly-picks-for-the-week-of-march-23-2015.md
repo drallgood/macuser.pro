@@ -15,18 +15,19 @@ post_excerpt: |
 layout: post
 permalink: >
   http://macuser.pro/2015/03/23/weekly-picks-for-the-week-of-march-23-2015/
+published: true
 video_url:
-  - 
+  - ""
 audio_url:
-  - 
+  - ""
 quote_content:
-  - 
+  - ""
 quote_attribution:
-  - 
+  - ""
 link_url:
-  - 
+  - ""
 link_title:
-  - 
+  - ""
 ---
 Every week, we pick the most notable apps, hardware, podcasts or what ever else we've encountered and think you should know of. This post will also be updated regularly throughout the week as we find more amazing stuff. So check back every now and then to learn about our latest findings.
 

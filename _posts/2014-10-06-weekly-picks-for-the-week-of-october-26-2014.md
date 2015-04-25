@@ -9,19 +9,21 @@ post_excerpt: "<p>Every week, we pick the most notable apps, hardware, podcasts 
 layout: post
 permalink: >
   http://macuser.pro/2014/10/06/weekly-picks-for-the-week-of-october-26-2014/
+published: true
 video_url:
-  - 
+  - ""
 audio_url:
-  - 
+  - ""
 quote_content:
-  - 
+  - ""
 quote_attribution:
-  - 
+  - ""
 link_url:
-  - 
+  - ""
 link_title:
-  - 
+  - ""
 ---
+
 
 
 

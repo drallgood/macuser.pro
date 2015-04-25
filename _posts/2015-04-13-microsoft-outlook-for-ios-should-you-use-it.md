@@ -3,22 +3,23 @@ ID: 635
 post_title: 'Microsoft Outlook for iOS: Should You use it?'
 author: Ben Roethig
 post_date: 2015-04-13 11:10:33
-post_excerpt:
+post_excerpt: ""
 layout: post
 permalink: >
   http://macuser.pro/2015/04/13/microsoft-outlook-for-ios-should-you-use-it/
+published: true
 video_url:
-  - 
+  - ""
 audio_url:
-  - 
+  - ""
 quote_content:
-  - 
+  - ""
 quote_attribution:
-  - 
+  - ""
 link_url:
-  - 
+  - ""
 link_title:
-  - 
+  - ""
 ---
 Back in January, Microsoft released its Outlook app for iOS (and Android). &nbsp;While it says Outlook, it's not actually directly related to the app that you're used to for business email. &nbsp;The new <a href="https://itunes.apple.com/app/id951937596">Outlook</a> is actually heavily based on the third party app <a href="https://www.acompli.com">Acompli</a>&nbsp; which was purchased by Microsoft right before the changeover. &nbsp;The former Acompli, now Outlook, has a lot going for it, but there are some issues you should be aware before committing to use it in your business.
 

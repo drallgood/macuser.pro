@@ -19,19 +19,21 @@ post_excerpt: |
 layout: post
 permalink: >
   http://macuser.pro/2015/02/02/weekly-picks-for-the-week-of-february-2-2015/
+published: true
 video_url:
-  - 
+  - ""
 audio_url:
-  - 
+  - ""
 quote_content:
-  - 
+  - ""
 quote_attribution:
-  - 
+  - ""
 link_url:
-  - 
+  - ""
 link_title:
-  - 
+  - ""
 ---
+
 
 
 

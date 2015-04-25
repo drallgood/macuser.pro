@@ -10,23 +10,25 @@ post_excerpt: |
 layout: post
 permalink: >
   http://macuser.pro/2014/11/01/using-and-organizing-icloud-drive-on-os-x-yosemite/
+published: true
 ac_featured_article:
-  - 1
+  - "1"
 ac_show_post_thumbnail:
-  - 
+  - ""
 video_url:
-  - 
+  - ""
 audio_url:
-  - 
+  - ""
 quote_content:
-  - 
+  - ""
 quote_attribution:
-  - 
+  - ""
 link_url:
-  - 
+  - ""
 link_title:
-  - 
+  - ""
 ---
+
 
 
 

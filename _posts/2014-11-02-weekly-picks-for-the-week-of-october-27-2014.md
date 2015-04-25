@@ -16,19 +16,21 @@ post_excerpt: |
 layout: post
 permalink: >
   http://macuser.pro/2014/11/02/weekly-picks-for-the-week-of-october-27-2014/
+published: true
 video_url:
-  - 
+  - ""
 audio_url:
-  - 
+  - ""
 quote_content:
-  - 
+  - ""
 quote_attribution:
-  - 
+  - ""
 link_url:
-  - 
+  - ""
 link_title:
-  - 
+  - ""
 ---
+
 
 
 

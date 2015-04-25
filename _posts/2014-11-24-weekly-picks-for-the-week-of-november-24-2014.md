@@ -5,23 +5,25 @@ post_title: >
   24, 2014
 author: "Patrice Brend'amour"
 post_date: 2014-11-24 08:18:31
-post_excerpt:
+post_excerpt: ""
 layout: post
 permalink: >
   http://macuser.pro/2014/11/24/weekly-picks-for-the-week-of-november-24-2014/
+published: true
 video_url:
-  - 
+  - ""
 audio_url:
-  - 
+  - ""
 quote_content:
-  - 
+  - ""
 quote_attribution:
-  - 
+  - ""
 link_url:
-  - 
+  - ""
 link_title:
-  - 
+  - ""
 ---
+
 
 
 

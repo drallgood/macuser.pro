@@ -7,19 +7,21 @@ post_excerpt: "<p>The holidays are fast approaching, so is the time for great gi
 layout: post
 permalink: >
   http://macuser.pro/2014/12/18/holiday-gift-guide-mac-edition/
+published: true
 video_url:
-  - 
+  - ""
 audio_url:
-  - 
+  - ""
 quote_content:
-  - 
+  - ""
 quote_attribution:
-  - 
+  - ""
 link_url:
-  - 
+  - ""
 link_title:
-  - 
+  - ""
 ---
+
 
 
 

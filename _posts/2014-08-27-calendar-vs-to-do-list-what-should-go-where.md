@@ -7,19 +7,21 @@ post_excerpt: "<p>Whether you're using your Mac or iOS device to organize your w
 layout: post
 permalink: >
   http://macuser.pro/2014/08/27/calendar-vs-to-do-list-what-should-go-where/
+published: true
 video_url:
-  - 
+  - ""
 audio_url:
-  - 
+  - ""
 quote_content:
-  - 
+  - ""
 quote_attribution:
-  - 
+  - ""
 link_url:
-  - 
+  - ""
 link_title:
-  - 
+  - ""
 ---
+
 
 
 

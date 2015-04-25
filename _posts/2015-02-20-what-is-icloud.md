@@ -3,23 +3,25 @@ ID: 427
 post_title: What is iCloud?
 author: "Patrice Brend'amour"
 post_date: 2015-02-20 14:04:59
-post_excerpt:
+post_excerpt: ""
 layout: post
 permalink: >
   http://macuser.pro/2015/02/20/what-is-icloud/
+published: true
 video_url:
-  - 
+  - ""
 audio_url:
-  - 
+  - ""
 quote_content:
-  - 
+  - ""
 quote_attribution:
-  - 
+  - ""
 link_url:
-  - 
+  - ""
 link_title:
-  - 
+  - ""
 ---
+
 We've talked about iCloud [a couple of times][icMUP] on the Professional Apple Users Academy, as it's one of the most important pillars of Apple's ecosystem nowadays. Still, many people don't know what iCloud really is, aside from that login they had to create when they first set up their new iOS Device.
 
 This article is intended as a starting point for anyone who is new to Apple's ecosystem and wants to understand what iCloud really is and how they can use it. We'll add links to additional articles talking about certain parts of iCloud in more detail when they are posted. So feel free to add this page to your bookmarks.

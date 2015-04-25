@@ -7,23 +7,25 @@ post_excerpt: "<p>iCloud has been at the center of Apple's ecosystem for a coupl
 layout: post
 permalink: >
   http://macuser.pro/2014/10/10/ios-8-the-new-icloud/
+published: true
 ac_featured_article:
-  - 1
+  - "1"
 ac_show_post_thumbnail:
-  - 
+  - ""
 video_url:
-  - 
+  - ""
 audio_url:
-  - 
+  - ""
 quote_content:
-  - 
+  - ""
 quote_attribution:
-  - 
+  - ""
 link_url:
-  - 
+  - ""
 link_title:
-  - 
+  - ""
 ---
+
 
 
 

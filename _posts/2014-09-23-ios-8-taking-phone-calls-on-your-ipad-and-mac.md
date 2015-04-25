@@ -7,23 +7,25 @@ post_excerpt: "<p>With iOS8, and later this year OS X Yosemite, Apple introduces
 layout: post
 permalink: >
   http://macuser.pro/2014/09/23/ios-8-taking-phone-calls-on-your-ipad-and-mac/
+published: true
 ac_featured_article:
-  - 
+  - ""
 ac_show_post_thumbnail:
-  - 
+  - ""
 video_url:
-  - 
+  - ""
 audio_url:
-  - 
+  - ""
 quote_content:
-  - 
+  - ""
 quote_attribution:
-  - 
+  - ""
 link_url:
-  - 
+  - ""
 link_title:
-  - 
+  - ""
 ---
+
 
 
 
