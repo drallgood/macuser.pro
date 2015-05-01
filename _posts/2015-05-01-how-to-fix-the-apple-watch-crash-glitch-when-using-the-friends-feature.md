@@ -8,22 +8,23 @@ post_date:
 post_excerpt:
   - ""
 layout: post
-permalink: http://macuser.pro/?p=681
-published: false
+permalink: >
+  http://macuser.pro/2015/05/01/how-to-fix-the-apple-watch-crash-glitch-when-using-the-friends-feature/
+published: true
 video_url:
-  - 's:25:"s:17:"a:1:{i:0;s:0:"";}";";'
+  - 's:41:"s:33:"s:25:"s:17:"a:1:{i:0;s:0:"";}";";";";'
 audio_url:
-  - 's:25:"s:17:"a:1:{i:0;s:0:"";}";";'
+  - 's:41:"s:33:"s:25:"s:17:"a:1:{i:0;s:0:"";}";";";";'
 quote_content:
-  - 's:25:"s:17:"a:1:{i:0;s:0:"";}";";'
+  - 's:41:"s:33:"s:25:"s:17:"a:1:{i:0;s:0:"";}";";";";'
 quote_attribution:
-  - 's:25:"s:17:"a:1:{i:0;s:0:"";}";";'
+  - 's:41:"s:33:"s:25:"s:17:"a:1:{i:0;s:0:"";}";";";";'
 link_url:
-  - 's:25:"s:17:"a:1:{i:0;s:0:"";}";";'
+  - 's:41:"s:33:"s:25:"s:17:"a:1:{i:0;s:0:"";}";";";";'
 link_title:
-  - 's:25:"s:17:"a:1:{i:0;s:0:"";}";";'
+  - 's:41:"s:33:"s:25:"s:17:"a:1:{i:0;s:0:"";}";";";";'
 ---
-A few of you might already have gotten your Apple Watches, or it might arrive in the next few days/weeks. In the meantime, our very own DocRock has already [discovered a bug][1] in the current version of Apple's Watch OS:
+A few of you might already have gotten your Apple Watch, or it might arrive in the next few days/weeks. In the meantime, our very own DocRock has already [discovered a bug][1] in the current version of Apple's Watch OS:
 If one of the contacts in your friends view (the one you get when pressing the button on your Apple Watch) has too much information attached to it, the Watch will simply crash and reboot. No big deal, but still annoying.
 
 The good news is, that Doc has [figured out][1] how to prevent this from happening until Apple fixes this with one of the upcoming software updates. Watch this short video, to find out how:
