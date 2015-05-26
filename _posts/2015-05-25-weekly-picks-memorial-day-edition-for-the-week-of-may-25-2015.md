@@ -4,11 +4,12 @@ post_title: >
   Weekly Pick(s) Memorial Day Edition for
   the Week of May 25, 2015
 author: Jerome Koehler
-post_date: 2015-05-25 18:26:00
+post_date: 2015-05-25 18:26:31
 post_excerpt: 'Back in the dark ages of iOS, I used to utilize the Notes app for all of my note-taking needs for meetings, jotting down important tasks, etc.  The application became a repository for much vital information yet it was lacking so much functionality.'
 layout: post
-permalink: http://macuser.pro/?p=662
-published: false
+permalink: >
+  http://macuser.pro/2015/05/25/weekly-picks-memorial-day-edition-for-the-week-of-may-25-2015/
+published: true
 video_url:
   - ""
 audio_url:
