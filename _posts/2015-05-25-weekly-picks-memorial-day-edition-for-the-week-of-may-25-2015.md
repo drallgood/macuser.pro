@@ -38,3 +38,11 @@ Back in the dark ages of iOS, I used to utilize the Notes app for all of my note
 Not only is the app a very helpful utility, the developer is very responsive and continues to improve upon the application as new iterations if iOS are released and new feature requests are submitted.  For example, both iOS widget and Apple Watch support were released in relatively short time.  The bottom line is that is app rocks and has had a spot on my dock ever since the application was released.  Keep up the good work [Agile Tortoise](http://agiletortoise.com "agile tortoise site")!
 
 [1]: https://geo.itunes.apple.com/us/app/drafts-4-quickly-capture-notes/id905337691?mt=8&uo=6&at=1l3v3UY
+
+## Ben
+### <a href="https://itunes.apple.com/app/id997102246?mt=8&uo=4&at=10l6UJ&ct=Spark_Banner">Spark</a>
+<a href="http://macuser.pro/wp-content/uploads/2015/05/Readdle-spark-feature-image.png"><img src="http://macuser.pro/wp-content/uploads/2015/05/Readdle-spark-feature-image-300x169.png" alt="Readdle-spark-feature image" width="300" height="169" class="alignnone size-medium wp-image-702" /></a>
+
+I'm notoriously picky when it comes to email clients.  I've used just about every one on iOS and every one has come up short for me... until now.  Readdle, who makes some of the best iOS apps out there walked up the plate and hit it out of the park with <a href="https://readdle.com/products/spark">Spark</a>.  Its compatible with every IMAP email service, including custom servers and exchange servers not using active sync.  It also works with the big cloud storage providers, Evernote/ OneNote, and reading services like Instapaper.  The interface is fast, well thought out and highly customizable to fit the individual user.  The functionality can be enhanced with widgets like Calendar functionality and future options including package tracking, flight tracking, and access to your iTunes and Amazon accounts.  There's an Apple Watch companion app to boot.
+
+<a href="https://readdle.com/products/spark">Spark</a> is currently iPhone only, but Readdle has already confirmed a Mac version is on its way.  If that isn't enough to make you want it, its free.
